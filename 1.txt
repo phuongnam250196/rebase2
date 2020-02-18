@@ -16,5 +16,3 @@ qqq
 
 masster
 masrer
-
-master 5
